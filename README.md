@@ -2,6 +2,8 @@
 Practicing ML Techniques
 ## local-outlier-factor
 
+- 
+
 ## DecisonTreeRegressor_RandomForestRegressor
 
 - Basic regression analysis on insurance dataset predicting the total charges based on age, sex, bmi, children, smoker, region
@@ -11,3 +13,23 @@ Practicing ML Techniques
 - Uses Mean Absolute Error to evaluate accuracy
 
 ## time-series-anomaly
+
+
+
+```bash
+< Algorithms Used >
+   |
+   |-- Supervised Learning                              
+   |    |
+   |    |-- Decision Tree Regressor
+   |    |-- Random Forest Regressor                                   
+   |
+   |-- Unsupervised Learning                          
+   |    |
+   |    |-- Local Outlier Factor
+   |    |-- IsolationForest                                        
+   |
+   |-- Deep Learning                               
+   |                          
+   |-- ************************************************************************
+```
