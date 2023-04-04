@@ -2,9 +2,9 @@
 Practicing ML Techniques
 ## local-outlier-factor
 
-- 
+- Anomaly Detection using Local Outlier Factor from sklearn on insurance dataset.
 
-## DecisonTreeRegressor_RandomForestRegressor
+## DecisionTreeRegressor_RandomForestRegressor
 
 - Basic regression analysis on insurance dataset predicting the total charges based on age, sex, bmi, children, smoker, region
 
@@ -14,7 +14,9 @@ Practicing ML Techniques
 
 ## time-series-anomaly
 
+- Anomaly Detection on Taxi Tim Series data and currently active taxis.  
 
+- Utilizes Isolation Forest from sklearn
 
 ```bash
 < Algorithms Used >
