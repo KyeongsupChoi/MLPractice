@@ -23,3 +23,9 @@ Practicing ML Techniques
 ## Reinforcement Learning
 
 ## Deep Learning
+
+### Convolutional Neural Network
+
+### Recurrent Neural Network
+
+### Generative Adversarial Network
