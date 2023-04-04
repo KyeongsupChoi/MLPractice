@@ -1,31 +1,13 @@
 # MLPractice
 Practicing ML Techniques
-## Supervised Learning
+## local-outlier-factor
 
-### Linear Regression
+## DecisonTreeRegressor_RandomForestRegressor
 
-### Decision Tree
+- Basic regression analysis on insurance dataset predicting the total charges based on age, sex, bmi, children, smoker, region
 
--ml-practce.ipynb
+- Utilizes Decision Tree Regressor and Random Forest Regressor from sklearn
 
-### Support Vector Machine
+- Uses Mean Absolute Error to evaluate accuracy
 
-### Logistic Regression
-
-## Unsupervised Learning
-
-### K-Means
-
-### Isolation Forest
-
--Taxi Time series
-
-## Reinforcement Learning
-
-## Deep Learning
-
-### Convolutional Neural Network
-
-### Recurrent Neural Network
-
-### Generative Adversarial Network
+## time-series-anomaly
