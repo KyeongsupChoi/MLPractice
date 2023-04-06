@@ -1,8 +1,7 @@
-## local-outlier-factor
-
+## local-outlier-factor [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kyeongsupchoi/local-outlier-factor)
 - Anomaly Detection using Local Outlier Factor from sklearn on insurance dataset.
 
-## DecisionTreeRegressor_RandomForestRegressor
+## DecisionTreeRegressor_RandomForestRegressor [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kyeongsupchoi/decisiontreeregressor-randomforestregressor)
 
 - Basic regression analysis on insurance dataset predicting the total charges based on age, sex, bmi, children, smoker, region
 
@@ -10,9 +9,7 @@
 
 - Uses Mean Absolute Error to evaluate accuracy
 
-## time-series-anomaly
-
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kyeongsupchoi/decisiontreeregressor-randomforestregressor)
+## time-series-anomaly [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kyeongsupchoi/time-series-anomaly)
 
 - Anomaly Detection on Taxi Tim Series data and currently active taxis.  
 
