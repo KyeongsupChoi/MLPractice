@@ -12,7 +12,7 @@
 
 ## time-series-anomaly
 
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg\)](https://www.kaggle.com/code/kyeongsupchoi/decisiontreeregressor-randomforestregressor)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kyeongsupchoi/decisiontreeregressor-randomforestregressor)
 
 - Anomaly Detection on Taxi Tim Series data and currently active taxis.  
 
