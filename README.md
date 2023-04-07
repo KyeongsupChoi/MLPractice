@@ -26,7 +26,8 @@
    |-- Unsupervised Learning                          
    |    |
    |    |-- Local Outlier Factor
-   |    |-- IsolationForest                                        
+   |    |-- Isolation Forest         
+   |    |-- One Class Support Vector Machine                               
    |
    |-- Deep Learning                               
    |                          
