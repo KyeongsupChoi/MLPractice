@@ -15,6 +15,8 @@
 
 - Utilizes Isolation Forest from sklearn
 
+## one-class-support-vector-machine [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kyeongsupchoi/one-class-support-vector-machine)
+
 ```bash
 < Algorithms Used >
    |
