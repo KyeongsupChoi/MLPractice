@@ -31,7 +31,10 @@
    |    |-- Isolation Forest         
    |    |-- One Class Support Vector Machine                               
    |
-   |-- Deep Learning                               
+   |-- Deep Learning     
+   |    |
+   |    |-- Image Classification
+   |    |-- Text Classification                                
    |                          
    |-- ************************************************************************
 ```
