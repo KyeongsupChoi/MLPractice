@@ -1,6 +1,28 @@
 # Kaggle Notebooks
 [Kaggle Notebooks](https://www.kaggle.com/kyeongsupchoi/code?scroll=true)
 
+[![Button Shield]][Shield]
+
+</div>
+
+
+
+
+<!---------------------------------------------------------------------------->
+
+[Button Shield]: https://img.shields.io/badge/Kaggle-37a779?style=for-the-badge
+
+[License]: LICENSE
+[Shield]: Types/Shield.md
+[KBD]: Types/KBD.md
+[#]: #
+
+
+<!---------------------------------[ Badges ]---------------------------------->
+
+[Badge License]: https://www.kaggle.com/kyeongsupchoi/code?scroll=true
+[Badge Likes]: https://www.kaggle.com/kyeongsupchoi/code?scroll=true
+
 ## Algorithms Used
 
 ```bash
