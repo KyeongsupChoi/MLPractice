@@ -1,27 +1,6 @@
 # Kaggle Notebooks
-[Kaggle Notebooks](https://www.kaggle.com/kyeongsupchoi/code?scroll=true)
 
-[![Button Shield]][Shield]
-
-</div>
-
-
-
-
-<!---------------------------------------------------------------------------->
-
-[Button Shield]: https://img.shields.io/badge/Kaggle-37a779?style=for-the-badge
-
-[License]: LICENSE
-[Shield]: Types/Shield.md
-[KBD]: Types/KBD.md
-[#]: #
-
-
-<!---------------------------------[ Badges ]---------------------------------->
-
-[Badge License]: https://www.kaggle.com/kyeongsupchoi/code?scroll=true
-[Badge Likes]: https://www.kaggle.com/kyeongsupchoi/code?scroll=true
+[![](https://img.shields.io/badge/ML/AI_Algorithms-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kyeongsupchoi/code?scroll=true)
 
 ## Algorithms Used
 
