@@ -6,7 +6,7 @@ A Collection of Data Science Projects created for academic, self learning, and h
 
 ## Contents
 
-- ### Supervised Learning
+- ### [Supervised Learning]
 
    _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
 
