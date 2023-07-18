@@ -8,24 +8,27 @@ A Collection of Data Science Projects created for academic, self learning, and h
 
 - ### [Supervised Learning]
 
-   _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+    _Tools: Scikit-learn, Pandas, Matplotlib, Numpy_ 
 
-	- [Decision Tree Regressor](https://github.com/): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
-	- [Random Forest Regressor  ](https://github.com/): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
+	- [Decision Tree Regressor](https://www.kaggle.com/code/kyeongsupchoi/decisiontreeregressor-randomforestregressor): Predicting insurance charges based on age, sex, bmi, smoking data utilizing a Decision Tree Regression model. 
+	
+    - [Random Forest Regressor](https://www.kaggle.com/code/kyeongsupchoi/decisiontreeregressor-randomforestregressor): Testing comparative performance of a Random Forest Regressor model with previous example based on max leaf nodes and mean absolute error
+	
+    - [Linear Regression](https://www.kaggle.com/code/kyeongsupchoi/linearregression): Prediction of home prices based on square foot area, number of bedrooms, renovated year utilizing a linear regression model. 
 
 - ### [Unsupervised Learning]
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+	_Tools: Scikit-learn, Pandas, Matplotlib, Numpy_ 
 
-	- [Local Outlier Factor](https://github.com/): A multilabel classification model to predict the categories of a disaster message. Includes an ETL pipeline for data processing, a ML pipeline to train the model, and a web app, with visualizations, where the model can be used to classify messages.
+	- [Local Outlier Factor](https://www.kaggle.com/code/kyeongsupchoi/local-outlier-factor): Gauging performance of a local outlier
 
-	- [Isolation Forest](https://github.com/): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine. 
+	- [Isolation Forest](https://www.kaggle.com/code/kyeongsupchoi/time-series-anomaly): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine. 
 
-	- [One Class Support Vector Machine](https://github.com/): Cross language information retrieval system (CLIR) which, given a query in German, searches text documents written in English.
+	- [One Class Support Vector Machine](https://www.kaggle.com/code/kyeongsupchoi/one-class-support-vector-machine): Gauging performance of a One Class Support Vector Machine to detect outliers on generated, experimental data. 
 
 - ### [Deep Learning]
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+	_Tools: Scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
 
 	- [Image Classification](https://github.com/): A multilabel classification model to predict the categories of a disaster message. Includes an ETL pipeline for data processing, a ML pipeline to train the model, and a web app, with visualizations, where the model can be used to classify messages. _Tools: NLTK, Scikit-learn, XGBoost, Flask, Plotly_
 
