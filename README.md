@@ -1,6 +1,6 @@
 # ML/AI Portfolio
 
-A Collection of Data Science Projects created for practice purposes in the form of Jupyter notebooks, also available on Kaggle.
+A Collection of Data Science Projects in the form of Jupyter notebooks, also available on Kaggle.
 
 [![](https://img.shields.io/badge/ML/AI_Algorithms-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kyeongsupchoi/code?scroll=true)
 
